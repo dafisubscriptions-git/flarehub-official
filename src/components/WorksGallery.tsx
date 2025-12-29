@@ -20,7 +20,9 @@ const WorksGallery = () => {
       </div>
 
       <div className="relative">
-        <div className="flex animate-scroll-left-mobile md:animate-scroll-left">
+        <div className="inline-flex w-max flex-nowrap will-change-transform animate-scroll-left-mobile md:animate-scroll-left">
+
+          {/*<div className="flex animate-scroll-left-mobile md:animate-scroll-left">
           {/* First set of images */}
           {works.map((work, index) => (
             <div
