@@ -105,7 +105,7 @@ export default {
         "slide-in": "slide-in 0.6s ease-out",
         "glow": "glow 2s ease-in-out infinite",
         "scroll-left": "scroll-left 15s linear infinite",
-        "scroll-left-mobile": "scroll-left 20s linear infinite",
+        "scroll-left-mobile": "scroll-left 25s linear infinite",
       },
     },
   },
